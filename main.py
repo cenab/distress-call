@@ -9,7 +9,7 @@ import geocoder
 import smtplib, ssl
 
 port = 465  # For SSL
-password = "helpme123"
+password = "" #will be written in deployment server
 co = cohere.Client('ib4Rc6soXLKKinhSdbE7trjG1Gupc2ZuSLtUODa6')
 
 
